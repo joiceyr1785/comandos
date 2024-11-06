@@ -1,2 +1,4 @@
 # comandos
-comandos basicos de git
+comandos basincos de git
+#
+comandos agregados basicos en el git
